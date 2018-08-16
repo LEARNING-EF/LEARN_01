@@ -1,16 +1,13 @@
-﻿using System.Linq;
-//using System.Data.Entity;
-
-namespace LEARNING_EF_CODE_FIRST
+﻿namespace LEARNING_EF_CODE_FIRST
 {
-	static class Program
+	internal static class Program
 	{
 		static Program()
 		{
 		}
 
 		[System.STAThread]
-		static void Main()
+		internal static void Main()
 		{
 			// **************************************************
 			System.Windows.Forms.Application.EnableVisualStyles();

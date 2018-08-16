@@ -1,7 +1,4 @@
-﻿using System.Linq;
-//using System.Data.Entity;
-
-namespace LEARNING_EF_CODE_FIRST
+﻿namespace LEARNING_EF_CODE_FIRST
 {
 	public partial class MainForm : System.Windows.Forms.Form
 	{
